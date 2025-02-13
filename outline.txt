@@ -1,0 +1,10 @@
+1. 퍼널 데이터 분석
+2. AARRR
+3. A/B Test
+4. Retention?
+5. RFM
+6. 코호트 분석
+
+데이터셋
+https://dacon.io/competitions/official/236222/data
+
