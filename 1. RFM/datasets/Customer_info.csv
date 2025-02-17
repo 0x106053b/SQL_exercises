@@ -1,0 +1,1469 @@
+고객ID,성별,고객지역,가입기간
+USER_1358,남,Chicago,12
+USER_0190,남,California,43
+USER_0066,남,Chicago,33
+USER_0345,여,California,30
+USER_0683,남,California,49
+USER_0730,남,California,32
+USER_0585,여,New York,46
+USER_1347,여,New Jersey,24
+USER_0736,여,Chicago,40
+USER_0541,남,California,43
+USER_0922,남,Chicago,49
+USER_1421,여,California,10
+USER_1249,여,New York,19
+USER_0906,여,Washington DC,40
+USER_0954,여,California,30
+USER_0025,여,New Jersey,14
+USER_1267,여,Chicago,25
+USER_1277,남,Chicago,50
+USER_0337,여,Chicago,39
+USER_0344,여,Chicago,21
+USER_0281,남,Chicago,30
+USER_0351,여,Chicago,29
+USER_1383,남,New Jersey,26
+USER_0284,여,California,41
+USER_0867,여,California,24
+USER_0783,여,Chicago,21
+USER_0130,여,Washington DC,26
+USER_0947,남,Chicago,40
+USER_0412,여,California,14
+USER_0484,여,California,28
+USER_1378,여,California,15
+USER_1382,여,California,18
+USER_0138,여,California,31
+USER_0251,남,California,15
+USER_1030,여,California,27
+USER_1424,남,Chicago,34
+USER_0349,남,Washington DC,46
+USER_0334,여,California,44
+USER_0895,남,New York,25
+USER_0630,여,New Jersey,45
+USER_1395,남,New York,33
+USER_0946,남,New York,49
+USER_1376,남,Washington DC,19
+USER_1236,남,Chicago,34
+USER_1020,여,California,27
+USER_1175,여,New York,49
+USER_1389,여,Chicago,36
+USER_0595,남,Washington DC,43
+USER_0118,여,Chicago,28
+USER_0657,여,California,42
+USER_0147,여,California,8
+USER_1284,여,Chicago,49
+USER_0420,여,New York,7
+USER_0403,여,New York,10
+USER_0085,남,Chicago,21
+USER_0786,남,New York,48
+USER_0466,여,Chicago,39
+USER_1377,남,New York,42
+USER_0776,남,New York,25
+USER_0026,남,California,32
+USER_1129,여,New York,15
+USER_0745,남,California,48
+USER_0808,여,California,21
+USER_1438,여,California,26
+USER_0881,남,Chicago,29
+USER_0560,남,California,5
+USER_0694,여,New Jersey,36
+USER_0643,여,California,34
+USER_0996,남,California,47
+USER_1355,남,California,21
+USER_0034,여,New Jersey,2
+USER_1224,여,New Jersey,12
+USER_1303,여,California,33
+USER_1369,남,California,26
+USER_0205,남,California,35
+USER_0156,남,New York,49
+USER_0288,남,New York,33
+USER_1337,여,New Jersey,45
+USER_1120,여,California,19
+USER_0913,남,New Jersey,12
+USER_0961,여,California,43
+USER_0531,여,California,47
+USER_0587,남,New York,48
+USER_1015,남,California,2
+USER_1141,여,Chicago,45
+USER_0353,여,California,7
+USER_1317,여,Chicago,6
+USER_0165,남,California,48
+USER_1260,여,California,35
+USER_1456,남,New York,16
+USER_0438,여,Chicago,21
+USER_1153,여,California,10
+USER_0195,여,Chicago,32
+USER_0563,여,Chicago,33
+USER_1091,남,Chicago,11
+USER_0718,여,New Jersey,23
+USER_0312,남,New York,23
+USER_1406,남,California,7
+USER_0203,남,New Jersey,4
+USER_0828,여,New York,41
+USER_0602,남,California,32
+USER_0340,남,California,23
+USER_0427,여,Chicago,41
+USER_1330,여,Chicago,8
+USER_0144,여,New York,33
+USER_0840,여,New York,27
+USER_1359,여,New York,13
+USER_0413,여,California,10
+USER_1384,남,New York,12
+USER_0391,여,New York,38
+USER_1138,남,California,40
+USER_0437,여,Chicago,21
+USER_0212,여,Chicago,45
+USER_0033,여,California,11
+USER_0806,여,Chicago,46
+USER_0282,여,New York,22
+USER_0607,남,New York,24
+USER_0820,남,Chicago,24
+USER_0496,여,California,6
+USER_0641,여,Chicago,4
+USER_1411,남,Washington DC,30
+USER_0889,여,California,49
+USER_0677,여,Washington DC,39
+USER_0953,여,New York,36
+USER_0687,남,New Jersey,9
+USER_0498,남,Chicago,37
+USER_1016,여,California,42
+USER_0721,여,Chicago,45
+USER_0261,여,Chicago,38
+USER_0530,여,California,6
+USER_0417,여,Chicago,22
+USER_0882,여,Chicago,34
+USER_1071,남,New York,42
+USER_1204,여,Washington DC,45
+USER_0751,남,New York,32
+USER_0154,여,Washington DC,3
+USER_0791,남,Chicago,22
+USER_0837,남,New Jersey,16
+USER_0911,여,Chicago,16
+USER_1237,남,New Jersey,17
+USER_0856,여,Chicago,3
+USER_0447,여,California,11
+USER_0216,남,New Jersey,30
+USER_1114,여,New York,7
+USER_1392,남,New Jersey,5
+USER_0525,여,Chicago,18
+USER_1193,남,California,12
+USER_1007,여,California,39
+USER_1346,여,California,13
+USER_0685,여,New York,20
+USER_1398,남,Washington DC,12
+USER_0520,남,New Jersey,39
+USER_0860,여,Chicago,9
+USER_1080,여,New York,38
+USER_1276,남,Chicago,41
+USER_0293,여,Chicago,16
+USER_0941,여,New York,18
+USER_1316,남,Washington DC,37
+USER_1287,남,California,25
+USER_0836,여,Chicago,21
+USER_0221,여,California,21
+USER_0855,남,New York,27
+USER_1282,여,California,9
+USER_0675,남,California,7
+USER_0944,남,California,9
+USER_0816,여,California,30
+USER_0800,여,New York,5
+USER_1076,여,Chicago,26
+USER_1354,여,California,14
+USER_1190,남,Chicago,42
+USER_0627,남,California,15
+USER_1246,여,California,19
+USER_0407,여,Chicago,17
+USER_0610,여,Chicago,25
+USER_0172,여,Washington DC,43
+USER_0858,남,Chicago,12
+USER_1307,여,California,33
+USER_0733,남,Chicago,25
+USER_0818,남,California,10
+USER_0394,여,New Jersey,22
+USER_0518,여,New Jersey,41
+USER_0441,여,California,5
+USER_1133,여,California,50
+USER_0279,남,Chicago,42
+USER_1442,여,Chicago,5
+USER_1336,여,New York,45
+USER_0568,여,Chicago,14
+USER_0182,여,New York,18
+USER_0358,남,California,37
+USER_0758,남,California,30
+USER_0475,남,Chicago,16
+USER_0259,여,New York,33
+USER_1072,여,New Jersey,5
+USER_1037,여,New York,33
+USER_1459,남,New York,20
+USER_0556,여,Chicago,26
+USER_0225,여,California,4
+USER_0499,남,New Jersey,4
+USER_0632,여,New Jersey,8
+USER_0682,남,California,46
+USER_0115,남,New York,42
+USER_0935,여,Washington DC,34
+USER_1279,여,New York,44
+USER_0465,여,Chicago,18
+USER_1391,여,California,10
+USER_0555,남,California,40
+USER_1169,여,California,45
+USER_1240,여,California,13
+USER_0457,여,California,25
+USER_0170,여,New York,34
+USER_0097,남,Chicago,30
+USER_0582,남,California,26
+USER_0719,남,New York,40
+USER_1454,여,New Jersey,28
+USER_0274,남,Washington DC,41
+USER_1101,여,Washington DC,37
+USER_0300,여,Chicago,19
+USER_0140,여,California,19
+USER_1111,여,New York,33
+USER_0023,여,New York,37
+USER_1394,여,Chicago,6
+USER_1104,남,Chicago,12
+USER_0559,여,New York,48
+USER_0583,여,California,37
+USER_1371,여,Chicago,37
+USER_0060,남,New York,50
+USER_0423,남,Chicago,41
+USER_0183,남,Chicago,13
+USER_0456,여,New York,18
+USER_1000,여,Washington DC,50
+USER_0071,남,New York,39
+USER_0903,남,New York,31
+USER_1387,여,New Jersey,15
+USER_0127,여,California,28
+USER_1118,남,California,48
+USER_1341,남,California,8
+USER_0095,여,Chicago,33
+USER_0594,남,Chicago,4
+USER_1390,여,New York,22
+USER_1351,남,Chicago,13
+USER_0103,남,Chicago,37
+USER_0755,남,Washington DC,24
+USER_0932,여,California,34
+USER_1180,여,New York,18
+USER_1195,여,Chicago,20
+USER_0131,여,Chicago,39
+USER_0842,여,Chicago,25
+USER_0500,남,New Jersey,9
+USER_0640,여,California,25
+USER_0107,여,New Jersey,48
+USER_1062,여,Chicago,48
+USER_0013,여,New Jersey,10
+USER_0995,여,Chicago,23
+USER_0200,여,New York,5
+USER_0792,여,California,39
+USER_1197,남,Chicago,9
+USER_0773,여,Chicago,14
+USER_0830,여,Chicago,49
+USER_0202,여,New Jersey,25
+USER_0908,여,Chicago,48
+USER_0369,여,California,5
+USER_0746,여,Washington DC,29
+USER_1415,여,Washington DC,18
+USER_0666,여,California,37
+USER_1430,여,New York,9
+USER_0197,여,New York,38
+USER_0952,남,New York,34
+USER_0620,남,Chicago,21
+USER_1092,여,New York,10
+USER_0940,남,Washington DC,24
+USER_1121,여,New Jersey,37
+USER_1087,남,California,22
+USER_0255,여,California,41
+USER_0623,여,New York,32
+USER_0062,여,Washington DC,23
+USER_1150,남,Chicago,44
+USER_0741,여,California,30
+USER_0622,남,California,21
+USER_0975,남,Washington DC,6
+USER_1433,남,Chicago,24
+USER_0367,여,California,35
+USER_0299,남,New Jersey,30
+USER_1343,여,Washington DC,5
+USER_0832,여,Chicago,2
+USER_1440,여,California,26
+USER_0713,여,California,7
+USER_1130,여,New York,21
+USER_1149,남,California,24
+USER_0971,남,California,44
+USER_1182,여,Chicago,29
+USER_1142,남,California,23
+USER_0799,여,New Jersey,34
+USER_0870,여,New York,33
+USER_1059,여,California,39
+USER_0850,여,California,6
+USER_1361,남,Chicago,34
+USER_0982,여,Chicago,20
+USER_0443,여,Chicago,41
+USER_1365,여,Chicago,50
+USER_0990,여,Chicago,40
+USER_0985,남,Chicago,31
+USER_0660,여,Chicago,40
+USER_1242,여,California,37
+USER_0765,여,Chicago,17
+USER_0081,남,New York,28
+USER_0875,남,Chicago,44
+USER_0869,남,New York,11
+USER_0537,여,California,34
+USER_0795,여,Chicago,34
+USER_0189,여,Chicago,40
+USER_0874,여,California,21
+USER_0888,남,New Jersey,23
+USER_0933,여,California,9
+USER_0104,여,Chicago,20
+USER_0992,여,California,35
+USER_0117,여,Chicago,9
+USER_0779,여,New York,27
+USER_0122,여,California,48
+USER_0421,여,California,49
+USER_1393,여,Chicago,7
+USER_0502,남,Chicago,32
+USER_0313,여,New York,49
+USER_0234,남,Chicago,25
+USER_0897,여,California,32
+USER_1314,남,New York,3
+USER_0327,여,Washington DC,35
+USER_0068,남,California,3
+USER_1250,여,California,14
+USER_0938,남,New York,10
+USER_1095,여,Chicago,47
+USER_1452,여,New York,32
+USER_0480,여,California,18
+USER_0604,여,Chicago,31
+USER_1038,여,New York,34
+USER_1311,남,Chicago,2
+USER_0133,남,California,32
+USER_0206,남,Washington DC,10
+USER_0877,여,Washington DC,24
+USER_0101,여,California,25
+USER_0876,남,Chicago,27
+USER_1318,여,Chicago,48
+USER_1189,여,New Jersey,19
+USER_0667,여,Chicago,19
+USER_0880,여,Washington DC,24
+USER_0297,여,New York,22
+USER_0866,여,New York,46
+USER_0450,여,New York,7
+USER_0735,남,California,12
+USER_0634,여,Chicago,50
+USER_0492,여,New York,15
+USER_0035,여,New York,17
+USER_1060,여,New York,40
+USER_0670,남,California,17
+USER_0734,여,New Jersey,19
+USER_0590,여,Chicago,16
+USER_1108,남,Chicago,40
+USER_0625,여,California,34
+USER_1431,남,New York,3
+USER_1291,여,California,38
+USER_0678,여,New York,6
+USER_0424,여,New York,5
+USER_1362,여,New Jersey,49
+USER_0227,여,California,8
+USER_0662,여,California,8
+USER_1116,여,New York,10
+USER_1200,남,Chicago,8
+USER_1140,남,New York,25
+USER_0529,여,Chicago,41
+USER_1061,여,New Jersey,45
+USER_0872,여,New York,45
+USER_0578,여,California,30
+USER_1053,여,New York,30
+USER_1018,여,New York,34
+USER_0896,여,California,25
+USER_1315,남,Chicago,39
+USER_1042,여,Chicago,40
+USER_1152,여,Washington DC,31
+USER_0748,여,California,32
+USER_1187,여,California,10
+USER_1089,남,California,20
+USER_0187,남,California,39
+USER_1178,남,Chicago,13
+USER_0703,남,Chicago,33
+USER_0503,남,New York,15
+USER_1039,여,California,15
+USER_1096,여,New York,41
+USER_0931,여,California,20
+USER_0290,남,Chicago,6
+USER_0295,남,New York,25
+USER_1270,여,New Jersey,46
+USER_1185,여,Chicago,31
+USER_1349,남,Chicago,20
+USER_0458,여,New York,29
+USER_0807,여,New Jersey,10
+USER_1214,여,California,40
+USER_1081,여,New York,45
+USER_0153,여,New York,21
+USER_1367,남,California,50
+USER_0309,남,California,26
+USER_0631,여,California,21
+USER_0659,여,Chicago,35
+USER_0396,여,Chicago,40
+USER_1256,여,California,17
+USER_1160,여,California,37
+USER_1262,여,California,48
+USER_1296,여,New York,6
+USER_0819,남,California,22
+USER_0094,남,Chicago,27
+USER_0642,남,Chicago,46
+USER_1331,남,New Jersey,49
+USER_0914,남,Chicago,44
+USER_1327,여,Chicago,28
+USER_0658,여,California,22
+USER_0597,남,New York,30
+USER_0348,여,California,6
+USER_0446,여,New York,13
+USER_0266,여,Chicago,27
+USER_0747,여,California,46
+USER_1434,여,California,20
+USER_1263,여,New Jersey,31
+USER_0477,여,New Jersey,37
+USER_0311,남,Chicago,14
+USER_0778,여,New York,14
+USER_0581,남,New York,9
+USER_0292,여,California,22
+USER_0948,여,California,9
+USER_0655,남,Chicago,41
+USER_0890,여,Chicago,26
+USER_0661,여,New York,9
+USER_1312,여,New York,17
+USER_0352,여,New York,20
+USER_1110,여,California,17
+USER_0920,여,New York,47
+USER_0356,남,Chicago,21
+USER_0380,여,New York,40
+USER_0233,여,California,8
+USER_0865,여,California,18
+USER_0699,여,California,41
+USER_0001,남,New York,20
+USER_0601,여,New York,27
+USER_0964,남,Chicago,13
+USER_1248,여,New York,48
+USER_1078,여,Chicago,19
+USER_0966,남,New York,13
+USER_1127,여,Chicago,26
+USER_1289,여,New York,25
+USER_0139,여,California,45
+USER_0361,여,Chicago,33
+USER_0928,남,California,22
+USER_0680,남,Chicago,24
+USER_1428,여,Chicago,48
+USER_0977,여,California,49
+USER_1368,남,New Jersey,40
+USER_0624,남,Chicago,41
+USER_1097,여,Chicago,22
+USER_0199,여,California,28
+USER_0254,남,California,46
+USER_0193,여,Chicago,10
+USER_0102,남,Washington DC,36
+USER_0815,여,California,4
+USER_0010,남,California,38
+USER_0618,여,Chicago,3
+USER_1079,남,Washington DC,11
+USER_0317,여,California,46
+USER_0270,남,Chicago,2
+USER_1423,남,Chicago,34
+USER_0603,여,California,31
+USER_1244,여,Chicago,3
+USER_0839,여,California,7
+USER_0399,남,California,30
+USER_0370,여,New York,5
+USER_0029,여,Chicago,39
+USER_0239,남,California,47
+USER_0408,남,New York,50
+USER_1323,남,New Jersey,29
+USER_0917,남,New York,14
+USER_1012,여,California,47
+USER_0648,여,New York,28
+USER_1397,남,Chicago,6
+USER_0926,남,California,43
+USER_0218,여,Washington DC,37
+USER_0893,남,Chicago,9
+USER_1024,남,California,35
+USER_1055,남,Chicago,5
+USER_1106,여,New York,50
+USER_0788,남,California,16
+USER_1412,여,New York,18
+USER_0904,남,California,19
+USER_1328,여,Chicago,12
+USER_1215,남,New Jersey,49
+USER_1222,여,New York,13
+USER_0415,남,Chicago,6
+USER_0879,여,Chicago,37
+USER_0950,여,New York,23
+USER_0980,남,California,19
+USER_0663,여,California,4
+USER_1183,남,Chicago,25
+USER_1416,남,Washington DC,4
+USER_0214,남,New Jersey,44
+USER_1021,남,Chicago,39
+USER_0286,여,New York,38
+USER_0459,여,New York,10
+USER_1201,여,California,22
+USER_0483,여,Washington DC,18
+USER_1463,여,California,5
+USER_1313,남,New York,15
+USER_1047,남,New York,28
+USER_1465,남,Chicago,25
+USER_0124,여,Chicago,22
+USER_0732,여,Chicago,2
+USER_1448,여,California,31
+USER_0301,여,Chicago,13
+USER_0148,여,California,28
+USER_0656,여,New York,30
+USER_0802,여,California,18
+USER_0825,남,California,32
+USER_0326,여,California,34
+USER_1375,여,California,37
+USER_0256,남,Chicago,7
+USER_0566,남,Chicago,13
+USER_0633,여,Chicago,43
+USER_0198,여,New York,45
+USER_0215,여,Chicago,26
+USER_0303,여,New Jersey,48
+USER_0372,남,New York,35
+USER_0222,남,New York,34
+USER_0831,남,California,3
+USER_1403,여,New Jersey,30
+USER_0744,남,California,48
+USER_1221,여,California,36
+USER_0400,여,New York,34
+USER_0898,여,Chicago,26
+USER_0406,여,California,5
+USER_0955,여,Chicago,37
+USER_1032,여,New York,18
+USER_1050,남,New York,7
+USER_0902,남,New Jersey,10
+USER_1306,여,New York,2
+USER_1058,여,New York,42
+USER_0470,남,New York,46
+USER_0169,남,New York,9
+USER_0679,여,California,45
+USER_0512,여,New York,3
+USER_0163,여,New Jersey,4
+USER_0821,남,New Jersey,13
+USER_1425,남,California,34
+USER_0749,여,New Jersey,35
+USER_0039,여,California,49
+USER_0105,여,California,5
+USER_0075,남,California,44
+USER_1420,남,Chicago,24
+USER_0096,남,Chicago,15
+USER_0121,여,Chicago,37
+USER_0373,여,Chicago,44
+USER_0132,남,California,34
+USER_0273,여,New York,24
+USER_0044,여,California,28
+USER_1360,남,Chicago,47
+USER_1245,여,Chicago,16
+USER_0646,남,New Jersey,35
+USER_0024,여,New Jersey,43
+USER_0654,여,California,3
+USER_0493,여,New York,7
+USER_1273,남,California,22
+USER_0639,여,Washington DC,40
+USER_0515,여,New Jersey,10
+USER_0248,여,California,24
+USER_0528,여,California,17
+USER_0916,여,New York,41
+USER_1251,여,Chicago,36
+USER_1010,여,Washington DC,37
+USER_0886,여,New York,13
+USER_0700,여,New Jersey,20
+USER_0864,남,Chicago,4
+USER_0209,여,New York,10
+USER_0453,남,Chicago,26
+USER_1322,여,Chicago,28
+USER_0725,여,Chicago,37
+USER_0398,여,Chicago,13
+USER_0728,남,California,50
+USER_1399,여,Chicago,15
+USER_1083,여,California,20
+USER_1009,여,Chicago,45
+USER_1350,여,Chicago,29
+USER_0184,남,Chicago,29
+USER_0956,남,Chicago,7
+USER_1308,여,New York,34
+USER_1305,남,New Jersey,13
+USER_0082,남,Chicago,33
+USER_0973,여,Chicago,31
+USER_0149,남,New Jersey,20
+USER_1220,여,California,21
+USER_1457,여,California,36
+USER_1004,여,Chicago,31
+USER_1163,남,California,33
+USER_0702,여,Chicago,37
+USER_0516,남,New Jersey,19
+USER_0726,남,California,10
+USER_1029,남,California,50
+USER_0757,남,California,9
+USER_1253,남,California,34
+USER_1388,여,New York,39
+USER_0135,남,California,33
+USER_1258,여,New Jersey,34
+USER_1210,여,New York,17
+USER_0851,여,Chicago,27
+USER_0268,여,Chicago,14
+USER_1321,여,New York,21
+USER_0219,여,California,48
+USER_0790,여,Chicago,24
+USER_0073,여,New York,37
+USER_0740,여,California,48
+USER_0709,남,California,40
+USER_0805,여,California,39
+USER_0939,여,Chicago,22
+USER_1112,여,California,16
+USER_1285,여,California,23
+USER_0592,여,Chicago,42
+USER_0589,여,New York,50
+USER_0245,남,California,30
+USER_0397,여,New York,15
+USER_1274,여,Chicago,28
+USER_0849,남,Chicago,33
+USER_1320,여,California,2
+USER_1156,남,New York,46
+USER_1353,남,California,32
+USER_0958,남,California,38
+USER_1370,남,California,12
+USER_0177,남,New Jersey,32
+USER_1342,여,Washington DC,34
+USER_0111,여,California,28
+USER_0509,남,New York,20
+USER_0422,여,New York,31
+USER_1379,남,New Jersey,7
+USER_0834,여,Washington DC,4
+USER_1041,여,Chicago,46
+USER_0409,남,California,24
+USER_0472,여,Chicago,7
+USER_0547,남,Chicago,11
+USER_0915,여,New York,20
+USER_1432,여,Chicago,38
+USER_0905,여,California,34
+USER_1445,여,New York,33
+USER_1418,여,Chicago,47
+USER_0226,남,New York,16
+USER_0174,여,California,5
+USER_0430,남,Chicago,11
+USER_0871,남,New York,34
+USER_0129,여,New Jersey,36
+USER_1064,여,California,11
+USER_0784,남,Chicago,22
+USER_0357,여,New Jersey,35
+USER_1366,남,Chicago,12
+USER_1186,여,New York,19
+USER_1026,여,Chicago,2
+USER_1098,남,California,6
+USER_0418,여,California,18
+USER_0698,여,Chicago,19
+USER_1407,여,Chicago,16
+USER_0519,여,California,42
+USER_0780,여,New York,45
+USER_1198,남,California,46
+USER_1117,여,New York,23
+USER_0442,여,California,13
+USER_1167,여,Chicago,32
+USER_0715,여,Chicago,28
+USER_0557,남,California,36
+USER_0119,여,New York,13
+USER_1194,여,California,28
+USER_1232,여,New York,4
+USER_0978,남,California,20
+USER_0150,여,New Jersey,24
+USER_1381,여,California,40
+USER_0901,남,California,5
+USER_1158,여,California,19
+USER_0330,여,Chicago,15
+USER_0584,여,Chicago,4
+USER_1176,남,Chicago,8
+USER_0793,남,New York,40
+USER_0899,여,New York,16
+USER_0506,여,Chicago,34
+USER_1404,여,Chicago,30
+USER_0395,남,California,38
+USER_1044,여,Chicago,31
+USER_0769,남,Chicago,39
+USER_0668,여,California,31
+USER_1386,남,New York,38
+USER_0564,여,California,48
+USER_1297,여,Chicago,17
+USER_0536,여,California,8
+USER_1410,남,New Jersey,46
+USER_0238,남,California,50
+USER_0057,여,Chicago,25
+USER_0244,여,New York,50
+USER_0750,남,New York,2
+USER_0827,남,California,16
+USER_0478,여,New York,17
+USER_0241,여,California,18
+USER_0402,여,Chicago,48
+USER_0533,여,Chicago,25
+USER_0863,남,New York,44
+USER_1051,여,Washington DC,14
+USER_1119,여,Chicago,45
+USER_1402,여,New York,20
+USER_0548,남,California,6
+USER_1219,여,New Jersey,40
+USER_1192,여,California,5
+USER_1344,여,Chicago,14
+USER_0553,여,California,39
+USER_1063,여,California,19
+USER_1208,여,Chicago,39
+USER_0570,남,Chicago,46
+USER_1295,남,New York,26
+USER_1173,여,New Jersey,31
+USER_1271,여,California,4
+USER_0036,남,Chicago,14
+USER_1207,남,Chicago,16
+USER_1374,여,Chicago,27
+USER_1234,남,New Jersey,21
+USER_1231,남,New Jersey,24
+USER_1396,여,California,11
+USER_0691,여,Chicago,29
+USER_0242,여,Chicago,33
+USER_0843,여,Chicago,24
+USER_0540,여,New Jersey,48
+USER_0267,여,Chicago,24
+USER_0360,여,New Jersey,40
+USER_0392,여,Chicago,9
+USER_0181,여,Chicago,48
+USER_0454,여,Chicago,24
+USER_0943,여,New York,44
+USER_0994,여,New York,46
+USER_1422,여,New York,12
+USER_0774,여,Chicago,23
+USER_1028,남,New York,15
+USER_0539,여,New York,15
+USER_1437,남,California,28
+USER_0027,여,Chicago,32
+USER_1085,여,New York,12
+USER_0649,남,Washington DC,34
+USER_1146,여,New York,15
+USER_0997,남,Chicago,12
+USER_0918,남,California,21
+USER_0957,남,California,11
+USER_1179,여,New Jersey,19
+USER_0416,남,New York,39
+USER_0635,남,California,27
+USER_0235,여,California,9
+USER_1413,여,California,9
+USER_1086,여,New York,40
+USER_0942,남,Chicago,19
+USER_0006,여,New York,21
+USER_0482,남,Chicago,41
+USER_1172,남,California,17
+USER_0508,남,New Jersey,47
+USER_1109,여,Chicago,36
+USER_1013,남,New Jersey,28
+USER_1243,여,New Jersey,11
+USER_1023,여,New York,19
+USER_1084,여,Chicago,15
+USER_1006,여,Chicago,29
+USER_1332,여,California,7
+USER_0247,남,California,19
+USER_0136,남,New Jersey,15
+USER_0207,남,California,33
+USER_0146,남,Chicago,32
+USER_0759,남,California,50
+USER_0371,여,New Jersey,4
+USER_0501,여,California,20
+USER_0934,여,California,9
+USER_1300,여,New York,11
+USER_0440,남,Chicago,48
+USER_0296,여,New York,21
+USER_0320,여,New York,5
+USER_1128,여,California,6
+USER_1257,남,New Jersey,15
+USER_1255,여,Chicago,24
+USER_1191,남,California,29
+USER_0145,남,New Jersey,34
+USER_0887,남,Chicago,44
+USER_0782,여,California,42
+USER_1272,남,New York,11
+USER_0287,여,California,33
+USER_0510,여,California,13
+USER_0900,여,California,10
+USER_0204,여,Washington DC,2
+USER_0283,남,Chicago,38
+USER_0684,여,New York,40
+USER_1144,남,California,47
+USER_0243,여,New York,35
+USER_0452,여,California,12
+USER_1319,여,New Jersey,11
+USER_0854,여,Chicago,4
+USER_0930,여,New York,5
+USER_1278,남,Chicago,32
+USER_1414,여,California,48
+USER_0644,남,Washington DC,4
+USER_0088,남,California,13
+USER_0817,여,Chicago,6
+USER_0217,남,New York,4
+USER_1184,여,California,28
+USER_0770,남,California,28
+USER_0676,여,California,22
+USER_0158,여,Chicago,21
+USER_0835,여,Chicago,40
+USER_1400,남,New York,47
+USER_0729,여,New York,3
+USER_1335,여,California,38
+USER_0812,남,Washington DC,19
+USER_0064,여,New Jersey,10
+USER_1147,여,Washington DC,29
+USER_0366,여,New York,38
+USER_1301,여,Chicago,17
+USER_0253,여,Washington DC,12
+USER_1352,여,Chicago,35
+USER_0823,남,New York,10
+USER_1177,여,New York,42
+USER_1264,여,Chicago,7
+USER_1034,여,California,31
+USER_0265,여,Chicago,17
+USER_0383,여,New York,31
+USER_1136,여,California,18
+USER_0720,여,California,2
+USER_1134,여,New York,13
+USER_0775,여,New York,18
+USER_0910,여,California,15
+USER_0628,여,California,50
+USER_1045,여,Chicago,48
+USER_1131,여,Chicago,5
+USER_1052,여,California,18
+USER_0998,여,New York,13
+USER_0507,여,New Jersey,7
+USER_0797,여,Chicago,41
+USER_0173,남,California,23
+USER_1069,남,New York,16
+USER_0636,남,New York,12
+USER_1067,여,California,9
+USER_1170,남,California,5
+USER_0151,여,New Jersey,23
+USER_0760,여,New Jersey,38
+USER_0567,여,New Jersey,41
+USER_0756,여,California,10
+USER_0485,여,New Jersey,49
+USER_1205,남,California,3
+USER_0591,남,New York,45
+USER_0690,여,New Jersey,43
+USER_1334,여,New York,42
+USER_0968,여,Chicago,44
+USER_0813,남,Chicago,48
+USER_0846,여,Chicago,28
+USER_1025,남,California,49
+USER_0304,여,California,20
+USER_1286,남,Chicago,30
+USER_0612,남,Chicago,40
+USER_0841,남,Washington DC,26
+USER_0495,여,Chicago,40
+USER_1444,남,New York,19
+USER_0753,남,California,37
+USER_0598,남,Chicago,46
+USER_0960,남,New York,24
+USER_1453,남,Washington DC,44
+USER_0789,여,California,23
+USER_1088,여,Chicago,31
+USER_1048,남,California,43
+USER_0490,남,California,41
+USER_1124,여,Chicago,9
+USER_0571,여,Washington DC,4
+USER_0704,여,Chicago,45
+USER_0460,여,California,19
+USER_0379,여,California,39
+USER_1464,남,New York,43
+USER_1356,남,Chicago,25
+USER_1239,남,Chicago,6
+USER_0002,남,California,39
+USER_0653,여,New York,4
+USER_0180,여,California,37
+USER_0552,남,Chicago,40
+USER_0160,여,New York,44
+USER_0323,여,Chicago,49
+USER_0058,남,Chicago,41
+USER_0128,여,Chicago,19
+USER_0608,여,Chicago,26
+USER_0844,남,California,19
+USER_0019,여,California,37
+USER_1213,여,New York,10
+USER_1054,여,Chicago,34
+USER_0108,남,Chicago,25
+USER_0707,남,New Jersey,29
+USER_1372,남,New York,37
+USER_1137,여,Chicago,3
+USER_0692,여,Chicago,30
+USER_0405,남,California,41
+USER_0188,남,California,50
+USER_0098,여,California,7
+USER_0376,여,New Jersey,6
+USER_0439,남,California,29
+USER_0100,여,New Jersey,45
+USER_1102,남,New York,27
+USER_1380,여,New York,29
+USER_0089,여,California,32
+USER_0527,여,Washington DC,10
+USER_1226,여,Chicago,6
+USER_1049,남,New York,31
+USER_1460,여,Washington DC,5
+USER_1223,남,New York,32
+USER_1462,남,California,45
+USER_0936,남,Chicago,29
+USER_0008,여,California,27
+USER_0572,남,California,45
+USER_0164,여,California,43
+USER_0737,여,Chicago,47
+USER_0428,남,New York,32
+USER_0431,남,Chicago,23
+USER_0210,여,New York,20
+USER_1181,여,Chicago,29
+USER_0185,여,New York,15
+USER_1299,남,California,25
+USER_1159,여,New Jersey,23
+USER_0433,남,California,8
+USER_0787,여,New York,21
+USER_1427,여,New York,6
+USER_0771,여,New York,4
+USER_0665,남,New York,2
+USER_0022,남,New York,9
+USER_0093,남,New York,27
+USER_0708,남,Chicago,16
+USER_1209,여,California,9
+USER_0599,여,New Jersey,21
+USER_0186,여,New York,35
+USER_0959,여,Chicago,37
+USER_0291,남,Washington DC,6
+USER_0050,여,New York,28
+USER_1241,여,California,45
+USER_1290,여,New York,22
+USER_0393,여,Chicago,16
+USER_0543,여,Chicago,30
+USER_0112,여,California,27
+USER_0647,여,California,18
+USER_1196,여,California,28
+USER_0542,여,Chicago,44
+USER_0009,남,New York,32
+USER_0796,여,New York,26
+USER_0803,남,Chicago,6
+USER_0388,여,New Jersey,11
+USER_0363,남,California,14
+USER_0067,여,New Jersey,4
+USER_0231,여,Chicago,31
+USER_0260,남,California,12
+USER_0264,남,California,42
+USER_1099,여,California,3
+USER_0963,여,California,20
+USER_0168,여,Chicago,44
+USER_0524,여,Chicago,42
+USER_0278,남,California,40
+USER_0332,남,Washington DC,34
+USER_0040,여,New York,39
+USER_0693,남,New York,28
+USER_1259,여,Chicago,47
+USER_0596,여,New York,33
+USER_0461,여,New York,39
+USER_0551,여,California,25
+USER_0250,남,Chicago,38
+USER_1238,여,New York,2
+USER_0065,여,Chicago,8
+USER_0861,남,New York,6
+USER_0925,여,Chicago,16
+USER_0324,여,New York,22
+USER_1033,남,Chicago,32
+USER_0822,여,California,24
+USER_1014,여,New York,7
+USER_0723,여,Chicago,22
+USER_0573,남,California,2
+USER_1077,남,Chicago,39
+USER_1288,여,California,26
+USER_0669,여,New Jersey,4
+USER_0201,남,Chicago,45
+USER_0772,여,Chicago,40
+USER_1455,여,New Jersey,40
+USER_1417,여,California,25
+USER_0018,남,Chicago,29
+USER_0048,여,Chicago,36
+USER_1230,남,Chicago,8
+USER_0474,여,California,31
+USER_0833,여,Chicago,16
+USER_0272,남,California,43
+USER_1302,여,Chicago,32
+USER_1046,여,New York,4
+USER_0993,남,New Jersey,29
+USER_1467,여,New Jersey,36
+USER_0113,남,Washington DC,5
+USER_0350,남,New York,14
+USER_0328,남,Chicago,44
+USER_0016,여,New Jersey,15
+USER_0486,남,Chicago,27
+USER_0257,여,California,43
+USER_0862,남,Chicago,22
+USER_0921,여,Chicago,16
+USER_0237,여,Chicago,50
+USER_1027,여,California,20
+USER_0626,여,New York,25
+USER_0055,남,California,29
+USER_1019,여,California,10
+USER_1103,여,Chicago,23
+USER_0999,여,Chicago,36
+USER_0346,남,New York,20
+USER_0046,남,Chicago,8
+USER_0810,여,Chicago,40
+USER_0688,남,New Jersey,16
+USER_0042,남,California,2
+USER_1324,여,Chicago,4
+USER_1449,여,Chicago,29
+USER_0041,남,California,44
+USER_1446,여,New York,6
+USER_1203,여,New York,38
+USER_0246,남,Chicago,30
+USER_0637,남,Chicago,6
+USER_0038,남,California,22
+USER_0580,남,New York,8
+USER_0316,남,California,28
+USER_0230,여,New York,14
+USER_0236,여,New York,42
+USER_1162,남,California,35
+USER_0162,여,Chicago,19
+USER_0811,여,New York,4
+USER_1165,남,California,19
+USER_0674,여,Chicago,20
+USER_0970,남,Washington DC,6
+USER_1168,여,New York,47
+USER_0606,여,California,17
+USER_1280,여,Chicago,27
+USER_0083,남,New York,44
+USER_1066,남,New Jersey,42
+USER_1090,여,California,46
+USER_1345,여,Chicago,12
+USER_1070,남,Chicago,41
+USER_0605,여,New Jersey,50
+USER_1017,여,New Jersey,17
+USER_0310,여,New Jersey,8
+USER_0848,남,New Jersey,31
+USER_1409,여,Chicago,37
+USER_0285,남,California,12
+USER_0617,여,New York,31
+USER_0056,남,Chicago,13
+USER_0045,여,Washington DC,46
+USER_1443,남,New York,21
+USER_0962,여,Chicago,40
+USER_0052,여,Washington DC,20
+USER_1348,남,California,35
+USER_1094,남,California,22
+USER_0488,여,Washington DC,24
+USER_0739,남,Chicago,45
+USER_1357,남,California,8
+USER_0331,여,New Jersey,45
+USER_0463,남,Chicago,29
+USER_0211,여,California,20
+USER_1003,여,California,16
+USER_0965,여,Chicago,12
+USER_0727,여,California,36
+USER_0114,여,New York,3
+USER_0289,여,New York,5
+USER_0487,여,Chicago,29
+USER_0012,여,Chicago,39
+USER_1333,여,Chicago,35
+USER_0974,여,New York,20
+USER_0072,여,California,10
+USER_0224,남,California,38
+USER_0743,여,California,15
+USER_0754,여,New York,38
+USER_0079,남,New York,48
+USER_0481,여,Chicago,7
+USER_0909,여,New York,26
+USER_1229,여,New York,11
+USER_0701,여,Washington DC,11
+USER_0579,여,New York,39
+USER_1426,여,Chicago,14
+USER_0785,여,New Jersey,7
+USER_0838,여,Chicago,44
+USER_0455,여,California,29
+USER_0798,남,California,32
+USER_0110,여,California,5
+USER_1283,여,California,41
+USER_0355,남,New York,30
+USER_0106,남,California,19
+USER_0375,남,California,32
+USER_1082,여,Chicago,7
+USER_0951,남,California,34
+USER_0476,남,New York,6
+USER_0087,여,Chicago,10
+USER_0051,여,Chicago,35
+USER_1040,남,Chicago,40
+USER_0976,여,New York,49
+USER_1022,여,Chicago,4
+USER_0005,남,New York,41
+USER_0884,여,California,11
+USER_0558,여,Chicago,30
+USER_0593,여,New Jersey,2
+USER_0448,여,California,19
+USER_0028,여,New Jersey,50
+USER_0410,여,New York,10
+USER_0084,남,New York,21
+USER_0538,여,Chicago,29
+USER_0696,여,New Jersey,48
+USER_0444,남,California,29
+USER_1148,여,Chicago,39
+USER_1228,남,New York,39
+USER_0258,여,Chicago,14
+USER_1005,남,New Jersey,6
+USER_0166,여,New York,18
+USER_0859,여,New York,46
+USER_1447,남,California,8
+USER_0401,남,Chicago,49
+USER_0432,남,California,18
+USER_0767,여,California,34
+USER_0967,남,California,35
+USER_0652,남,Chicago,36
+USER_0983,남,Washington DC,18
+USER_0781,여,New Jersey,15
+USER_0321,남,Chicago,20
+USER_0249,여,California,25
+USER_0826,남,New York,20
+USER_1001,여,California,37
+USER_0043,여,New York,26
+USER_0090,여,California,43
+USER_0275,여,Chicago,26
+USER_0814,여,New Jersey,8
+USER_0059,여,Chicago,8
+USER_0710,남,Washington DC,41
+USER_0445,남,California,37
+USER_1429,여,California,49
+USER_0664,남,Chicago,10
+USER_0489,여,California,22
+USER_0984,남,Chicago,40
+USER_0945,여,California,28
+USER_0354,남,New Jersey,17
+USER_0157,남,California,45
+USER_1031,여,Chicago,4
+USER_0335,남,Chicago,42
+USER_0194,남,New Jersey,15
+USER_0191,남,Chicago,45
+USER_1419,여,Chicago,10
+USER_0325,남,Chicago,21
+USER_1093,남,New York,31
+USER_1151,남,Chicago,7
+USER_1294,남,New York,21
+USER_0824,남,New York,24
+USER_0077,여,California,30
+USER_0651,남,New Jersey,17
+USER_0011,남,Chicago,31
+USER_0302,여,California,44
+USER_0829,남,Chicago,12
+USER_0738,여,California,28
+USER_0091,남,California,4
+USER_0731,남,California,40
+USER_1401,여,Chicago,45
+USER_0134,남,California,24
+USER_0178,여,Chicago,45
+USER_0429,남,California,25
+USER_0467,남,New York,21
+USER_1329,여,Chicago,30
+USER_0389,여,Washington DC,21
+USER_0574,남,Chicago,2
+USER_0374,남,New York,45
+USER_1451,여,California,37
+USER_0479,남,New Jersey,22
+USER_0382,남,California,36
+USER_1458,여,New Jersey,2
+USER_1139,남,Chicago,26
+USER_0469,여,Chicago,26
+USER_0004,여,Chicago,31
+USER_0000,여,New York,31
+USER_0385,여,New Jersey,23
+USER_1125,여,Chicago,2
+USER_1135,여,New Jersey,35
+USER_0053,여,Chicago,25
+USER_0761,남,Chicago,4
+USER_0049,여,California,25
+USER_0333,남,Chicago,3
+USER_0252,남,New Jersey,16
+USER_0511,여,Chicago,23
+USER_0030,남,Washington DC,49
+USER_0021,남,Chicago,50
+USER_1325,남,New York,44
+USER_0426,여,California,32
+USER_0809,여,Washington DC,15
+USER_0857,여,California,39
+USER_0263,남,New Jersey,15
+USER_0645,여,Chicago,42
+USER_1292,남,Chicago,40
+USER_0554,여,California,43
+USER_0298,여,California,32
+USER_0616,여,New Jersey,25
+USER_0883,여,Chicago,34
+USER_0078,여,California,13
+USER_1247,남,Chicago,26
+USER_0614,남,Chicago,17
+USER_0969,남,New York,18
+USER_0722,여,California,40
+USER_1364,여,Chicago,17
+USER_1105,남,Chicago,16
+USER_0014,여,California,22
+USER_1339,여,New York,33
+USER_0764,남,California,6
+USER_0609,남,New York,39
+USER_1113,여,Washington DC,16
+USER_0697,남,Chicago,34
+USER_0638,남,California,42
+USER_0070,여,California,13
+USER_1265,여,Chicago,9
+USER_0981,여,California,20
+USER_0086,남,Chicago,14
+USER_1036,여,New York,11
+USER_1202,여,California,31
+USER_0425,남,Washington DC,39
+USER_1161,남,Chicago,35
+USER_0586,여,California,16
+USER_0171,여,California,2
+USER_1373,여,New Jersey,40
+USER_1304,여,Chicago,5
+USER_1326,여,New York,6
+USER_0155,여,New York,2
+USER_1338,남,New York,32
+USER_0521,여,New York,29
+USER_0919,남,California,15
+USER_0329,여,Chicago,8
+USER_0695,남,California,2
+USER_0766,남,Chicago,27
+USER_0462,여,Chicago,3
+USER_0343,여,California,6
+USER_1310,여,Chicago,12
+USER_0109,남,Chicago,6
+USER_0419,남,California,32
+USER_0196,여,California,47
+USER_0494,여,New York,4
+USER_0777,여,New Jersey,2
+USER_0061,여,California,25
+USER_0364,여,California,7
+USER_0534,여,Chicago,20
+USER_0615,남,California,12
+USER_1363,여,Chicago,37
+USER_0514,여,New York,48
+USER_1441,여,California,47
+USER_0853,여,New Jersey,8
+USER_1436,남,Chicago,28
+USER_1043,여,New Jersey,3
+USER_0099,여,Chicago,4
+USER_0076,남,New Jersey,26
+USER_0277,남,Chicago,25
+USER_0161,여,New York,23
+USER_1065,여,Washington DC,9
+USER_0546,여,California,24
+USER_0307,여,Chicago,46
+USER_0020,여,California,38
+USER_0847,여,California,27
+USER_0671,여,Chicago,33
+USER_0435,여,New York,50
+USER_0714,여,California,26
+USER_0322,여,California,11
+USER_0386,여,California,10
+USER_0228,여,New York,47
+USER_0473,여,Chicago,38
+USER_0712,남,New York,11
+USER_0686,여,New Jersey,8
+USER_0544,남,California,14
+USER_0891,여,New York,12
+USER_1074,여,Chicago,22
+USER_0143,남,New York,42
+USER_0362,여,California,33
+USER_1405,여,California,25
+USER_1466,여,Chicago,47
+USER_0497,남,Washington DC,38
+USER_0336,여,Chicago,18
+USER_0742,여,Chicago,47
+USER_0116,남,New York,16
+USER_0949,여,New York,45
+USER_0491,여,Chicago,3
+USER_0232,여,Chicago,24
+USER_1123,남,Washington DC,34
+USER_1268,여,California,44
+USER_1157,여,California,30
+USER_0471,남,Chicago,34
+USER_0074,여,Chicago,3
+USER_0179,여,Washington DC,44
+USER_0929,여,New Jersey,22
+USER_0192,남,New York,3
+USER_0549,여,California,48
+USER_0280,여,New York,7
+USER_0414,남,Chicago,45
+USER_0912,여,California,19
+USER_0852,여,Chicago,32
+USER_0368,여,California,5
+USER_1166,여,New Jersey,49
+USER_0565,여,New York,33
+USER_0464,여,New Jersey,2
+USER_1155,여,California,24
+USER_1056,남,New Jersey,38
+USER_0208,여,California,5
+USER_1143,여,California,32
+USER_0069,여,California,25
+USER_1340,여,California,9
+USER_0927,여,New York,34
+USER_0989,여,Chicago,45
+USER_0347,남,New York,7
+USER_0717,남,Washington DC,42
+USER_0176,여,California,45
+USER_0711,여,California,15
+USER_1115,남,Washington DC,47
+USER_1100,남,Chicago,28
+USER_0517,여,California,44
+USER_1002,남,California,16
+USER_0123,여,Chicago,25
+USER_1211,여,California,6
+USER_0878,여,California,8
+USER_1126,남,New York,44
+USER_0650,여,New York,46
+USER_0588,남,Chicago,43
+USER_0080,여,New Jersey,50
+USER_0032,여,California,9
+USER_1075,남,Washington DC,29
+USER_0600,남,Chicago,13
+USER_1275,여,New York,37
+USER_0468,여,California,46
+USER_1435,여,Chicago,3
+USER_0269,남,Chicago,18
+USER_0794,여,Chicago,5
+USER_0868,여,California,17
+USER_0576,남,California,36
+USER_1174,여,Chicago,35
+USER_0672,남,Chicago,12
+USER_0063,여,California,48
+USER_0271,여,New York,47
+USER_0308,여,New York,50
+USER_0142,남,New York,11
+USER_0305,남,New York,32
+USER_1073,여,California,33
+USER_0436,여,Chicago,32
+USER_1011,남,New York,6
+USER_0575,여,New York,42
+USER_0223,여,Chicago,25
+USER_0752,남,Chicago,30
+USER_0338,여,Chicago,28
+USER_0339,여,New York,22
+USER_1216,여,Chicago,9
+USER_0621,남,New York,20
+USER_1107,남,New Jersey,49
+USER_0801,여,California,21
+USER_0561,여,New York,33
+USER_0229,여,Chicago,4
+USER_0762,남,Chicago,27
+USER_1252,남,Chicago,7
+USER_1261,여,New York,27
+USER_0535,남,Chicago,22
+USER_0054,여,New York,43
+USER_0768,남,New York,24
+USER_1212,남,Washington DC,24
+USER_1233,남,New Jersey,11
+USER_1439,여,Chicago,36
+USER_0526,여,Chicago,34
+USER_0152,남,Washington DC,32
+USER_0689,여,Chicago,35
+USER_0611,여,New York,42
+USER_0986,여,California,26
+USER_0988,남,California,48
+USER_1298,여,New York,30
+USER_0126,여,Chicago,42
+USER_1199,여,New York,43
+USER_1293,여,California,28
+USER_0404,여,New Jersey,3
+USER_0318,여,California,13
+USER_0673,남,New Jersey,8
+USER_1171,여,Chicago,24
+USER_0381,여,Chicago,22
+USER_1035,여,California,17
+USER_0569,여,Chicago,46
+USER_1225,여,Chicago,8
+USER_0037,여,California,10
+USER_0137,남,Chicago,6
+USER_0390,남,Chicago,36
+USER_1068,여,New York,29
+USER_0319,여,California,28
+USER_0294,남,California,33
+USER_0159,여,Chicago,26
+USER_0991,여,California,50
+USER_1145,여,New York,10
+USER_0706,남,California,19
+USER_1008,여,New Jersey,19
+USER_0007,여,New York,23
+USER_1450,여,New Jersey,18
+USER_0125,남,California,21
+USER_0550,여,Chicago,22
+USER_0894,여,California,13
+USER_0924,남,Chicago,29
+USER_1235,여,New Jersey,34
+USER_0213,여,New York,36
+USER_1057,여,California,44
+USER_0092,여,California,38
+USER_0885,여,California,32
+USER_0892,여,Chicago,39
+USER_0577,여,Chicago,4
+USER_0522,여,New Jersey,4
+USER_0804,여,California,11
+USER_0505,여,New York,17
+USER_1281,여,California,19
+USER_0716,여,Chicago,37
+USER_0523,여,California,38
+USER_0937,여,New York,24
+USER_0342,여,New York,2
+USER_0434,여,Chicago,17
+USER_0979,여,Chicago,4
+USER_0384,여,New York,16
+USER_0365,남,Chicago,42
+USER_1461,남,Chicago,15
+USER_0724,여,Chicago,36
+USER_0449,여,California,50
+USER_1408,남,Chicago,37
+USER_0763,여,California,49
+USER_1254,여,New York,42
+USER_0017,남,New York,43
+USER_0619,여,California,37
+USER_0175,여,California,47
+USER_0003,남,California,25
+USER_1132,여,California,7
+USER_1218,여,California,44
+USER_0987,여,California,20
+USER_1154,여,Chicago,15
+USER_0378,남,Chicago,24
+USER_1227,여,California,46
+USER_0276,남,Washington DC,6
+USER_0047,여,California,23
+USER_0972,여,New York,41
+USER_0907,여,New York,50
+USER_0411,남,California,49
+USER_0359,여,California,27
+USER_1309,남,California,39
+USER_0031,남,New York,26
+USER_0314,여,California,47
+USER_0545,여,New Jersey,12
+USER_0306,남,New York,24
+USER_0873,여,California,39
+USER_0532,남,California,42
+USER_1266,여,California,25
+USER_0240,여,Chicago,4
+USER_1217,여,Washington DC,8
+USER_0377,여,New York,17
+USER_1122,여,New Jersey,7
+USER_0120,여,California,11
+USER_0015,남,California,8
+USER_1385,남,California,4
+USER_0613,남,Chicago,26
+USER_1269,여,California,20
+USER_1188,여,Chicago,22
+USER_0220,남,California,37
+USER_0341,여,Chicago,48
+USER_0262,남,Chicago,14
+USER_0141,여,New Jersey,27
+USER_0923,여,New York,50
+USER_1206,여,Chicago,14
+USER_0681,여,Chicago,17
+USER_0705,여,New Jersey,41
+USER_0387,남,Chicago,30
+USER_0451,남,Chicago,19
+USER_0629,여,New Jersey,14
+USER_0315,남,Chicago,35
+USER_1164,여,New Jersey,38
+USER_0513,여,New York,41
+USER_0167,여,Chicago,48
+USER_0845,남,New Jersey,19
+USER_0504,여,New York,45
+USER_0562,여,California,7
